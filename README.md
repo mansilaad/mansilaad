@@ -3,7 +3,7 @@
 💻 **Software Developer | 4+ Years Experience | Cross-Platform Engineer**  
 
 I specialize in building scalable, high-quality applications and SDKs across mobile and web  
-My journey spans **iOS (Swift/SwiftUI)**, **React Native**, and **Node.js/Next.js**, with a proven record of launching products across multiple platforms.  
+My journey spans **iOS (Swift/SwiftUI)**, **React Native**, **React JS** and **Node.js/Next.js**, with a proven record of launching products across multiple platforms.  
 
 ---
 ## 🚀 About Me
